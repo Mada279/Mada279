@@ -1,22 +1,43 @@
-<h1 align="center">مرحباً، أنا محمد فرج (أبو عمير) 👋</h1>
-<h3 align="center">مهندس نظم ومؤسس تقني | Systems Architect & Technical Founder</h3>
+# Mohamed Farag
+**Systems Architect | Full-Stack Software Engineer | Technical Founder**
 
-- 🔭 أعمل حالياً على هندسة وتطوير أنظمة الأعمال المؤسسية، مثل **Survsta** (منصة متكاملة للمعدات المساحية) وأنظمة الـ ERP الصناعية.
-- 🏗️ متخصص في تصميم المعماريات البرمجية القابلة للتوسع (Scalable Architectures) وتطبيقات الويب السحابية الهجينة.
-- 💡 أدمج بين تقنيات الويب الحديثة، وأنظمة سطح المكتب المعقدة، وحلول الذكاء الاصطناعي المحلية (Local-first AI) لرفع كفاءة بيئات العمل.
-- ✒️ بعيداً عن الكود، شغوف بالأدب العربي الفصيح، الفنون الكاليغرافية (الخط الثلث والطغراء)، والتعمق في الأنظمة الصناعية والتحكم الآلي.
+مهندس نظم ومطور برمجيات متكاملة (Full-Stack)، متخصص في بناء أنظمة الأعمال (B2B SaaS)، وتخطيط الموارد (ERPs)، والمنصات السحابية. أمتلك خبرة عملية في تصميم المعماريات البرمجية القابلة للتوسع وربط الأنظمة الرقمية ببيئات العمل الصناعية.
 
-### 🛠️ الحزمة التقنية (Tech Stack)
-- **Frontend:** Next.js (App Router), React, TypeScript, Tailwind CSS
-- **Backend & APIs:** Node.js, Python, FastAPI, C# .NET
-- **Databases:** PostgreSQL, Supabase, SQLite
-- **Infrastructure & Tools:** Docker, Git, Electron, Local AI (Ollama)
+## 🛠️ الحزمة التقنية (Tech Stack)
+* **Frontend:** Next.js (App Router), React, TypeScript, Tailwind CSS
+* **Backend:** Node.js, Python, FastAPI, C#, .NET
+* **Databases:** PostgreSQL, Supabase, SQLite
+* **DevOps & Infrastructure:** Vercel, Docker, Git, Electron
+* **AI Integration:** Ollama, Termux, Local-first AI Deployment
 
-### 💼 أبرز المعماريات وأنظمة الأعمال
-- **Survsta Platform:** B2B Marketplace & Operating System for Geomatics and Surveying Equipment (Next.js + Supabase).
-- **Corevia / DieMaster / Viazon ERPs:** Local-first enterprise planning and job-order calculation systems for industrial workshops.
-- **PaintFactoryERP:** A comprehensive C# .NET management system for factory inventory and operations.
+---
 
-### 📫 للتواصل
-- **LinkedIn:** [رابط حسابك على لينكد إن]
-- **Email:** [بريدك الإلكتروني]
+## 💼 المنصات السحابية وتطبيقات الويب (SaaS & Web Platforms)
+
+* **Survsta Platform:**
+منصة مؤسسية (B2B Marketplace) لإدارة وتأجير المعدات المساحية والجيوماتكس. تعتمد على معمارية Next.js و Supabase، وتتضمن لوحات تحكم مستقلة للموردين، نظام تتبع العملاء (Lead Tracking)، وتكامل قواعد الأمان (RLS).
+
+* **Manara (منصة منارة):**
+تطبيق ويب سحابي مصمم لإدارة المحتوى وتقديم تجربة مستخدم تفاعلية وسريعة الاستجابة.
+
+* **Royal Laser Profile:**
+منصة تعريفية وهندسية (Corporate Profile) مخصصة لقطاع الصناعة والقطع بالليزر، تعكس الهوية المؤسسية وتعرض القدرات الفنية للشركة.
+
+* **Malahem (ملاحم - malahem.vercel.app):**
+منصة رقمية مخصصة لنشر وإدارة المحتوى الأدبي والسردي (الخيال الملحمي الفصيح). تم تصميمها كواجهة تفاعلية تربط بين البنية البرمجية المتينة والمحتوى الإبداعي.
+
+* **Interactive Digital Portfolio:**
+سيرة ذاتية تفاعلية مبنية كتطبيق ويب مستقل (Web-based CV) لعرض المشاريع، المهارات التقنية، والخبرات الهندسية بشكل ديناميكي.
+
+## 🏭 أنظمة تخطيط الموارد (ERP) والتشغيل المحلي
+* **Corevia ERP & Corevia RECO ERP:** أنظمة تخطيط وإدارة أوامر الشغل مصممة للورش الصناعية وعمليات إعادة التدوير.
+* **PaintFactoryERP:** نظام إدارة موارد متكامل (C# .NET) مخصص لإدارة المخزون وعمليات الإنتاج في مصانع الكيماويات والدهانات.
+* **DieMaster ERP & Viazon Commerce OS:** أنظمة تشغيل وتخطيط محلية (Local-first) لإدارة العمليات التجارية والتشغيلية.
+* **Ahmed Hanafy Technical Services App:** تطبيق إداري لتوليد العروض الفنية، التسعير، وإدارة العقود لمشاريع المقاولات.
+
+## ⚙️ تكامل الأنظمة وهندسة العتاد (Hardware & Diagnostics)
+* **Coreviazone:** بروتوكولات فحص رقمية (Digital Passports) لاختبار أداء محطات العمل المتقدمة (Workstations).
+* **Industrial Diagnostics:** صيانة وتعديل شاشات (FAGOR 8025 CNC)، تهيئة مضخات (ULVAC Booster Pumps)، ودمج أنظمة التيار الخفيف وأجهزة البصمة (ZKTeco).
+
+---
+📫 **للتواصل:** [رابط لينكد إن] | [البريد الإلكتروني] | [الموقع الشخصي]
