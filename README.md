@@ -1,15 +1,64 @@
-# 💫 About Me:
-# Mohamed Farag<br>**Systems Architect | Full-Stack Software Engineer | Technical Founder**<br><br>مهندس نظم ومطور برمجيات متكاملة (Full-Stack)، متخصص في بناء أنظمة الأعمال (B2B SaaS)، وتخطيط الموارد (ERPs)، والمنصات السحابية. أمتلك خبرة عملية في تصميم المعماريات البرمجية القابلة للتوسع وربط الأنظمة الرقمية ببيئات العمل الصناعية.<br><br>## 🛠️ الحزمة التقنية (Tech Stack)<br>* **Frontend:** Next.js (App Router), React, TypeScript, Tailwind CSS<br>* **Backend:** Node.js, Python, FastAPI, C#, .NET<br>* **Databases:** PostgreSQL, Supabase, SQLite<br>* **DevOps & Infrastructure:** Vercel, Docker, Git, Electron<br>* **AI Integration:** Ollama, Termux, Local-first AI Deployment<br><br>---<br><br>## 💼 المنصات السحابية وتطبيقات الويب (SaaS & Web Platforms)<br><br>* **Survsta Platform:**<br>منصة مؤسسية (B2B Marketplace) لإدارة وتأجير المعدات المساحية والجيوماتكس. تعتمد على معمارية Next.js و Supabase، وتتضمن لوحات تحكم مستقلة للموردين، نظام تتبع العملاء (Lead Tracking)، وتكامل قواعد الأمان (RLS).<br><br>* **Manara (منصة منارة):**<br>تطبيق ويب سحابي مصمم لإدارة المحتوى وتقديم تجربة مستخدم تفاعلية وسريعة الاستجابة.<br><br>* **Royal Laser Profile:**<br>منصة تعريفية وهندسية (Corporate Profile) مخصصة لقطاع الصناعة والقطع بالليزر، تعكس الهوية المؤسسية وتعرض القدرات الفنية للشركة.<br><br>* **Malahem (ملاحم - malahem.vercel.app):**<br>منصة رقمية مخصصة لنشر وإدارة المحتوى الأدبي والسردي (الخيال الملحمي الفصيح). تم تصميمها كواجهة تفاعلية تربط بين البنية البرمجية المتينة والمحتوى الإبداعي.<br><br>* **Interactive Digital Portfolio:**<br>سيرة ذاتية تفاعلية مبنية كتطبيق ويب مستقل (Web-based CV) لعرض المشاريع، المهارات التقنية، والخبرات الهندسية بشكل ديناميكي.<br><br>## 🏭 أنظمة تخطيط الموارد (ERP) والتشغيل المحلي<br>* **Corevia ERP & Corevia RECO ERP:** أنظمة تخطيط وإدارة أوامر الشغل مصممة للورش الصناعية وعمليات إعادة التدوير.<br>* **PaintFactoryERP:** نظام إدارة موارد متكامل (C# .NET) مخصص لإدارة المخزون وعمليات الإنتاج في مصانع الكيماويات والدهانات.<br>* **DieMaster ERP & Viazon Commerce OS:** أنظمة تشغيل وتخطيط محلية (Local-first) لإدارة
+<div align="center">
+  <!-- رأس الصفحة المتحرك والأنيق -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=150&section=header&text=Mohamed%20Farag&fontSize=45&fontColor=C5A059&animation=fadeIn&fontAlignY=38" />
+</div>
 
+<h3 align="center">Systems Architect | Full-Stack Software Engineer | Technical Founder</h3>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Mada279&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Mada279&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mada279&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  Building robust B2B SaaS, Enterprise ERPs, and Local-First Architectures.<br>
+  <i>مهندس نظم ومطور برمجيات متكاملة، متخصص في بناء المنصات السحابية وأنظمة الأعمال المعقدة.</i>
+</p>
+
+<div align="center">
+  <!-- روابط التواصل بتصميم حديث -->
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0B0C10?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0B0C10?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" /></a>
+  <a href="https://www.survsta.com"><img src="https://img.shields.io/badge/Survsta-0B0C10?style=for-the-badge&logo=vercel&logoColor=00E5FF" alt="Survsta" /></a>
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Mada279&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Core Competencies
+* **Enterprise Solutions:** Survsta Platform (B2B Geomatics), PaintFactoryERP, Corevia ERP.
+* **Modern Tech Stack:** Next.js (App Router), React, TypeScript, C#, .NET, Python, FastAPI.
+* **Data & Infrastructure:** PostgreSQL, Supabase, SQLite, Docker, Vercel, Git.
+* **Local-First & AI:** Ollama, Termux, Offline-first AI Deployment, Electron.
+
+---
+
+## 💼 Featured Platforms & Systems
+
+| Category | Highlights & Projects | Core Technologies |
+| :--- | :--- | :--- |
+| 🌐 **B2B SaaS & Marketplaces** | **Survsta:** Geomatics marketplace with lead tracking & RLS.<br>**Manara:** High-performance interactive content platform. | `Next.js` `Supabase` `TypeScript` |
+| 🏭 **Industrial ERP Systems** | **Corevia ERP / PaintFactoryERP:** Production, inventory & workflow management for recycling, workshops & chemical plants. | `C# .NET` `Python` `SQLite` |
+| 🎨 **Digital Portfolios & Niche** | **Malahem:** Literary digital platform for epic fiction.<br>**Royal Laser:** Corporate engineering profile. | `React` `Tailwind CSS` `Vercel` |
+| ⚡ **Local-First OS** | **DieMaster ERP & Viazon OS:** Offline-first resource planning and commerce systems. | `Electron` `Node.js` `FastAPI` |
+
+---
+
+## 🛠️ Technical Arsenal
+
+<div align="center">
+  <!-- أيقونات موحدة واحترافية للتقنيات -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,python,fastapi,cs,dotnet,postgres,supabase,sqlite,docker,git,vercel&theme=dark" />
+  </a>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <!-- الإحصائيات بدون حدود مزعجة وبألوانك المفضلة -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Mada279&show_icons=true&bg_color=0B0C10&title_color=00E5FF&text_color=C5A059&icon_color=00E5FF&border_color=090D16&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mada279&layout=compact&bg_color=0B0C10&title_color=00E5FF&text_color=C5A059&icon_color=00E5FF&border_color=090D16&hide_border=true" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mada279&label=Profile%20views&color=00E5FF&style=for-the-badge" alt="Profile Views" />
+</div>
