@@ -1,83 +1,15 @@
-<h1 align="center"> Hello there, I'm Mohamed Farag <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyH/giphy.gif" width="35"></h1>
+# 💫 About Me:
+# Mohamed Farag<br>**Systems Architect | Full-Stack Software Engineer | Technical Founder**<br><br>مهندس نظم ومطور برمجيات متكاملة (Full-Stack)، متخصص في بناء أنظمة الأعمال (B2B SaaS)، وتخطيط الموارد (ERPs)، والمنصات السحابية. أمتلك خبرة عملية في تصميم المعماريات البرمجية القابلة للتوسع وربط الأنظمة الرقمية ببيئات العمل الصناعية.<br><br>## 🛠️ الحزمة التقنية (Tech Stack)<br>* **Frontend:** Next.js (App Router), React, TypeScript, Tailwind CSS<br>* **Backend:** Node.js, Python, FastAPI, C#, .NET<br>* **Databases:** PostgreSQL, Supabase, SQLite<br>* **DevOps & Infrastructure:** Vercel, Docker, Git, Electron<br>* **AI Integration:** Ollama, Termux, Local-first AI Deployment<br><br>---<br><br>## 💼 المنصات السحابية وتطبيقات الويب (SaaS & Web Platforms)<br><br>* **Survsta Platform:**<br>منصة مؤسسية (B2B Marketplace) لإدارة وتأجير المعدات المساحية والجيوماتكس. تعتمد على معمارية Next.js و Supabase، وتتضمن لوحات تحكم مستقلة للموردين، نظام تتبع العملاء (Lead Tracking)، وتكامل قواعد الأمان (RLS).<br><br>* **Manara (منصة منارة):**<br>تطبيق ويب سحابي مصمم لإدارة المحتوى وتقديم تجربة مستخدم تفاعلية وسريعة الاستجابة.<br><br>* **Royal Laser Profile:**<br>منصة تعريفية وهندسية (Corporate Profile) مخصصة لقطاع الصناعة والقطع بالليزر، تعكس الهوية المؤسسية وتعرض القدرات الفنية للشركة.<br><br>* **Malahem (ملاحم - malahem.vercel.app):**<br>منصة رقمية مخصصة لنشر وإدارة المحتوى الأدبي والسردي (الخيال الملحمي الفصيح). تم تصميمها كواجهة تفاعلية تربط بين البنية البرمجية المتينة والمحتوى الإبداعي.<br><br>* **Interactive Digital Portfolio:**<br>سيرة ذاتية تفاعلية مبنية كتطبيق ويب مستقل (Web-based CV) لعرض المشاريع، المهارات التقنية، والخبرات الهندسية بشكل ديناميكي.<br><br>## 🏭 أنظمة تخطيط الموارد (ERP) والتشغيل المحلي<br>* **Corevia ERP & Corevia RECO ERP:** أنظمة تخطيط وإدارة أوامر الشغل مصممة للورش الصناعية وعمليات إعادة التدوير.<br>* **PaintFactoryERP:** نظام إدارة موارد متكامل (C# .NET) مخصص لإدارة المخزون وعمليات الإنتاج في مصانع الكيماويات والدهانات.<br>* **DieMaster ERP & Viazon Commerce OS:** أنظمة تشغيل وتخطيط محلية (Local-first) لإدارة
 
-<h3 align="center">Systems Architect | Full-Stack Software Engineer | Technical Founder</h3>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Changa&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Systems+Architect;Full-Stack+Software+Engineer;Technical+Founder;Building+B2B+SaaS+%26+ERPs;Local-first+AI+Deployment" alt="Typing SVG" /></a>
-</p>
-
-<div dir="rtl" align="right">
-مهندس نظم ومطور برمجيات متكاملة (Full-Stack)، متخصص في بناء أنظمة الأعمال (B2B SaaS)، وتخطيط الموارد (ERPs)، والمنصات السحابية. أمتلك خبرة عملية في تصميم المعماريات البرمجية القابلة للتوسع وربط الأنظمة الرقمية ببيئات العمل الصناعية.
-</div>
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="40" height="40"/>
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" alt=".net" width="40" height="40"/>
-  <!-- DB, DevOps & AI -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</p>
-
-<div dir="rtl" align="right">
-<i>بالإضافة إلى: Vercel, Electron, Ollama, Termux, Local-first AI Deployment.</i>
-</div>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Mada279&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Mada279&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mada279&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Mada279&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 💼 SaaS & Web Platforms
-
-<div dir="rtl" align="right">
-
-- **Survsta Platform:** منصة مؤسسية (B2B Marketplace) لإدارة وتأجير المعدات المساحية والجيوماتكس. تعتمد على معمارية Next.js و Supabase، وتتضمن لوحات تحكم مستقلة للموردين، نظام تتبع العملاء (Lead Tracking)، وتكامل قواعد الأمان (RLS).
-- **Manara (منصة منارة):** تطبيق ويب سحابي مصمم لإدارة المحتوى وتقديم تجربة مستخدم تفاعلية وسريعة الاستجابة.
-- **Royal Laser Profile:** منصة تعريفية وهندسية (Corporate Profile) مخصصة لقطاع الصناعة والقطع بالليزر، تعكس الهوية المؤسسية وتعرض القدرات الفنية للشركة.
-- **Malahem (ملاحم - malahem.vercel.app):** منصة رقمية مخصصة لنشر وإدارة المحتوى الأدبي والسردي (الخيال الملحمي الفصيح). تم تصميمها كواجهة تفاعلية تربط بين البنية البرمجية المتينة والمحتوى الإبداعي.
-- **Interactive Digital Portfolio:** سيرة ذاتية تفاعلية مبنية كتطبيق ويب مستقل (Web-based CV) لعرض المشاريع، المهارات التقنية، والخبرات الهندسية بشكل ديناميكي.
-
-</div>
-
----
-
-### 🏭 ERP Systems & Local Operations
-
-<div dir="rtl" align="right">
-
-- **Corevia ERP & Corevia RECO ERP:** أنظمة تخطيط وإدارة أوامر الشغل مصممة للورش الصناعية وعمليات إعادة التدوير.
-- **PaintFactoryERP:** نظام إدارة موارد متكامل (C# .NET) مخصص لإدارة المخزون وعمليات الإنتاج في مصانع الكيماويات والدهانات.
-- **DieMaster ERP & Viazon Commerce OS:** أنظمة تشغيل وتخطيط محلية (Local-first) لإدارة العمليات التجارية والموارد التشغيلية.
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mada279&show_icons=true&bg_color=0B0C10&title_color=00E5FF&text_color=C5A059&icon_color=00E5FF&border_color=090D16&count_private=true" alt="Mada279 Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mada279&layout=compact&bg_color=0B0C10&title_color=00E5FF&text_color=C5A059&icon_color=00E5FF&border_color=090D16" alt="Top Languages"/>
-</p> العمليات التجارية والتشغيلية.
-* **Ahmed Hanafy Technical Services App:** تطبيق إداري لتوليد العروض الفنية، التسعير، وإدارة العقود لمشاريع المقاولات.
-
-## ⚙️ تكامل الأنظمة وهندسة العتاد (Hardware & Diagnostics)
-* **Coreviazone:** بروتوكولات فحص رقمية (Digital Passports) لاختبار أداء محطات العمل المتقدمة (Workstations).
-* **Industrial Diagnostics:** صيانة وتعديل شاشات (FAGOR 8025 CNC)، تهيئة مضخات (ULVAC Booster Pumps)، ودمج أنظمة التيار الخفيف وأجهزة البصمة (ZKTeco).
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
